@@ -20,7 +20,7 @@ setup(
     ),
     install_requires=[
         "pip",
-        "Flask==0.10.1",
+        "Flask==2.2.5",
         "websocket-client==0.12.0",
         "dill==0.2b1",
         "terragon==0.1.4",
